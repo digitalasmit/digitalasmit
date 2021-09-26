@@ -2,7 +2,9 @@
 - 👀 I’m interested in Digital Marketing
 - 🌱 I’m currently learning Digital Marketing
 - 💞️ I’m looking to collaborate on Facebook
-- 📫 How to reach me https://digitalasmit.com
+- 📫 How to reach me https://digitalasmit.com 
+- 📫 How to reach me 07393936872
+- 📫 How to reach me coffee@digitalasmit.com
 
 <!---
 digitalasmit/digitalasmit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
